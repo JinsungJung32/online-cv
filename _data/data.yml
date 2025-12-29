@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: jinsungjung@kaist.ac.kr
+  phone: 010 7360 0661
+  timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: https://www.linkedin.com/in/jinsung-jung-257861373/
+  xing: 
+  github: 
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: ' # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,27 +37,25 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Intermediate
 
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Football
       link:
 
 
-    - item: Snowboarding
+    - item: Clothing
       link:
 
 
-    - item: Cooking
+    - item: Music
       link:
 
 
@@ -73,28 +71,22 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph.D. in Mechanical Engineering
+    university: Korea Advanced Institute of Science and Technology
+    time: 2021 - 2026
+    details:
+    -bullet point: Advisor: Prof. Sukyung Park
+    -bullet point: Ph.D. Dissertation: Energy Expenditure Estimation Based on Gait Mechanics Using Wearable Devices
+  - degree: M.S. in Mechanical Engineering
+    university: Korea Advanced Institute of Science and Technology
+    time: 2019 - 2021
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    -bullet point: Advisor: Prof. Jung Kim
+    -bullet point: Master Thesis: Estimation of Muscle Fatigue by Analyzing sEMG Mean Power Frequency Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
+  - degree: B.S. in Mechanical Engineering
+    university: Hanyang University
+    time: 2015 - 2019
+        - Bullet point: Cum Laude
 
 experiences:
   title: Experiences
@@ -223,14 +215,16 @@ oss:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
+  - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
+    journal : Scientific Reports (In Press)
+
+  - title :  Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
+    link: "#"
+    authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
+    journal : Scientific Reports (Under Review)
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
