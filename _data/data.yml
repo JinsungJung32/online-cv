@@ -75,14 +75,14 @@ education:
     university: Korea Advanced Institute of Science and Technology
     time: 2021 - 2026
     details:
-    -bullet point: Advisor: Prof. Sukyung Park
-    -bullet point: Ph.D. Dissertation: Energy Expenditure Estimation Based on Gait Mechanics Using Wearable Devices
+    -bullet point: Advisor| Prof. Sukyung Park
+    -bullet point: Ph.D. Dissertation| Energy Expenditure Estimation Based on Gait Mechanics Using Wearable Devices
   - degree: M.S. in Mechanical Engineering
     university: Korea Advanced Institute of Science and Technology
     time: 2019 - 2021
-    details: |
-    -bullet point: Advisor: Prof. Jung Kim
-    -bullet point: Master Thesis: Estimation of Muscle Fatigue by Analyzing sEMG Mean Power Frequency Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
+    details: 
+    -bullet point: Advisor| Prof. Jung Kim
+    -bullet point: Master Thesis| Estimation of Muscle Fatigue by Analyzing sEMG Mean Power Frequency Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
   - degree: B.S. in Mechanical Engineering
     university: Hanyang University
     time: 2015 - 2019
