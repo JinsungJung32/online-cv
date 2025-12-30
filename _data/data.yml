@@ -156,7 +156,7 @@ projects:
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
-  title: Publications
+  title: publications
   sections:
   - category_title: JOURNAL PUBLICATIONS
     papers:
