@@ -193,14 +193,14 @@ publications:
   intro: |
   papers:
   - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
-     link: "doi.org/10.1038/s41598-025-28393-9"
-     authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
+    link: "doi.org/10.1038/s41598-025-28393-9"
+    authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
     conference : Scientific Reports (2025)
 
   - title :  Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
-     link: "#"
+    link: "#"
     authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-     conference : Scientific Reports (Under Review)
+    conference : Scientific Reports (Under Review)
 
 publications:
   title: International/Domestic Conferences
