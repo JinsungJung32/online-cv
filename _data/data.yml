@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jinsung Jung
@@ -17,7 +17,7 @@ sidebar:
   phone: 010 7360 0661
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/jinsung-jung-257861373/
   xing: 
   github: 
@@ -90,11 +90,11 @@ education:
         - Bullet point: Cum Laude
 
 experiences:
-  title: Experiences
+  title: Research Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ph.D. Dissertation
+    time: 2021 - Present
+    company: KAIST
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,21 +107,11 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Lead Researcher
+    time: 2024 - Present
+    company: KAIST
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
+    *Generation of athletic data and on-field monitoring for runners using biomechanics-machine learning*
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -130,152 +120,207 @@ experiences:
         - Bullet point
         - Bullet point
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+# certifications:
+#  title: Certifications
+#  list:
+#  - name: CV Builder
+#    start: 2020
+#    end: 2021
+#    organization: Microsoft
+#    credentialid: 111-222
+#    credentialurl: www.google.com
+#    credentialname: Google
+#    details: |
+#      Details about cert. Lorem ipsum dolor sit amet, consectetur
+#      adipiscing elit.
+#      Nullam eget orci purus. Nullam ultrices neque nibh.
+      # Aenean fermentum, felis vulputate suscipit accumsan,
+      # sem enim bibendum augue, sed convallis arcu lacus at dui.
+      # Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      # Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      # Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      # Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      # fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      # justo diam viverra velit, sed rhoncus leo leo eu justo.
+      # Suspendisse placerat risus ante, sed porta nisi blandit at.
+
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
   assignments:
-  - title: Velocity
+  - title: Teaching Assistant for Dynamics Lecture at KAIST
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  # - title: DevStudio
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  # - title: Tempo
+  #   link: "#"
+  #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  # - title: Atom
+  #   link: "#"
+  #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Journal Publications
   intro: |
   papers:
   - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
-    link: "#"
+    link: "doi.org/10.1038/s41598-025-28393-9"
     authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
-    journal : Scientific Reports (In Press)
+    conference : Scientific Reports (2025)
 
   - title :  Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
     link: "#"
     authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-    journal : Scientific Reports (Under Review)
+    conference : Scientific Reports (Under Review)
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  title : International Conferences
+  papers:
+  - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
+    authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
+    conference : International Society of Biomechanics (ISB) 2025, Oral Presentation
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  papers:
+  -title: Changes in Leg Stiffness as a Result of Differences in Leg BMD in Various Age Groups During Running
+    authors: Jinsung Jung, Jongbin Kim, Sang-Kyoon Park, and Sukyung Park
+    conference : International Society of Biomechanics (ISB) 2023, Oral Presentation
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+  papers:
+  - title: Reproducing the Characteristics of Muscle Fatigue Change through sEMG Analysis Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
+    authors: Jinsung Jung, Jung Kim, and Sukyung Park
+    conference : International Society of Biomechanics (ISB) 2021, Poster Presentation
 
-      He is a great employee!
+  title : Domestic Conferences
+  papers:
+  - title: Unified-SLIP Model Emulating Stance Leg Ankle Joint Mechanics During Running
+    authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
+    conference : Korea Society of Mechanical Engineering (KSME) 2025, Oral Presentation
+
+  - title: Whole-Body Energy Expenditure Estimation Based on Stance Leg Sagittal Plane Mechanical Power During Walking
+    authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
+    conference: Korea Society of Mechanical Engineering (KSME) 2025 Biomechanics Section, Poster Presentation
+
+  - title: Emulation of ankle joint torque during running by considering the characteristics of leg length changes
+    authors: Jinsung Jung and Sukyung Park
+    conference: Korea Society of Mechanical Engineering (KSME) 2024, Oral Presentation
+
+  - title: Emulation of lower limb joint trajectories during running by applying the off-centered elliptical foot to SLIP model
+    authors: Jinsung Jung and Sukyung Park
+    conference: Korea Society of Biomechanics (KSB) 2024, Oral Presentation
+
+  - title: Improving Single IMU-based foot strike pattern classification performance using GRF frequency characteristics during running
+    authors: Jinsung Jung, Seongwoong Hong, Siwoo Jeong, Seungjoo Noh, and Sukyung Park
+    conference: Korea Society of Mechanical Engineering (KSME) 2024 Biomechanics Section, Oral Presentation
+
+  - title: Modeling for estimating energy dissipation by soft tissue during running
+    authors: Jinsung Jung and Sukyung Park
+    conference: Korea Society of Biomechanics (KSB) 2023, Oral Presentation
+
+ - title: Modeling of Ground Reaction Force impact during running by reflecting the relative motion of human soft tissue
+    authors: Jinsung Jung and Sukyung Park
+    conference: Korea Society of Mechanical Engineering (KSME) 2023 Biomechanics Section, Oral Presentation
+
+  - title: Comparison of Foot Strike Pattern Classification during Running through Machine Learning of Single IMU Data
+    authors: Jinsung Jung, Seongwoong Hong, Youngseong Lee, Sang-Kyoon Park and Sukyung Park
+    conference: Korea Society of Biomechanics (KSB) 2022, Oral Presentation
+    
+  - title: Correlation analysis between joint mechanical work and upper limb muscle fatigue during swimming stroke training
+    authors: Jinsung Jung and Sukyung Park
+    conference: Korea Society of Biomechanics (KSB) 2022, Poster Presentation
+
+  - title: Foot strike pattern classification method during running through machine learning of lumbar IMU data
+    authors: Jinsung Jung, Seongwoong Hong and Sukyung Park
+    conference: Korea Society of Mechanical Engineering (KSME) 2022, Poster Presentation
+
+    
+
+    
+    
+
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
+
+#       He is a great employee!
+
+Awards and Honors:
+  title: Awards and Honors
+  info:
+  - role: Outstanding Paper Awards
+    time: 2023
+    company: Korea Society of Biomechanics
+
+  -role: Outstanding Paper Awards
+    time: 2022
+    company: Korea Society of Biomechanics
+
+  -role : Outstaning Teaching Assistant Awards
+    time: 2022
+    company: Department of Mechanical Engineering, KAIST
+
+  - role: Graduation with honors, cum laude
+    time: 2019
+    company: Hanyang University
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Biomechanical Dynamics Modeling
+    level: 90%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Matlab
+    level: 90%
 
-  - name: Angular
-    level: 98%
+  - name: Experimental Biomechanics (Motion Capture, IMU, EMG, Energy Expenditure)
+    level: 90%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: Experimental Biomechanics Software (Nexus, Visual3D, etc.)
+    level: 90%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Python & Machine Learning
+    level: 70%
 
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
