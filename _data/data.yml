@@ -190,8 +190,8 @@ projects:
 
 publications:
   title: Journal Publications
-    intro: |
-    papers:
+  intro: |
+  papers:
     - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
       link: "doi.org/10.1038/s41598-025-28393-9"
       authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
@@ -202,8 +202,9 @@ publications:
       authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
       conference : Scientific Reports (Under Review)
 
-  title : International Conferences
-    papers:
+  title: International Conferences
+  intro: |
+  papers:
     - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
       authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
       conference : International Society of Biomechanics (ISB) 2025, Oral Presentation
@@ -217,7 +218,8 @@ publications:
       conference : International Society of Biomechanics (ISB) 2021, Poster Presentation
 
   title : Domestic Conferences
-    papers:
+  intro: |
+  papers:
     - title: Unified-SLIP Model Emulating Stance Leg Ankle Joint Mechanics During Running
       authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
       conference : Korea Society of Mechanical Engineering (KSME) 2025, Oral Presentation
