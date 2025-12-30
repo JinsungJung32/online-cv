@@ -189,74 +189,74 @@ projects:
 #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Journal Publications
-  intro: |
-  papers:
-  - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
-    link: "doi.org/10.1038/s41598-025-28393-9"
-    authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
-    conference : Scientific Reports (2025)
+  - title: Journal Publications
+    intro: |
+    papers:
+    - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
+      link: "doi.org/10.1038/s41598-025-28393-9"
+      authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
+      conference : Scientific Reports (2025)
 
-  - title :  Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
-    link: "#"
-    authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-    conference : Scientific Reports (Under Review)
+    - title :  Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
+      link: "#"
+      authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
+      conference : Scientific Reports (Under Review)
 
-publications:
-  title: Conferences
-  intro: |
-  papers:
-  - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
-    authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
-    conference : International Society of Biomechanics (ISB) 2025, Oral Presentation
 
-  - title: Changes in Leg Stiffness as a Result of Differences in Leg BMD in Various Age Groups During Running
-    authors: Jinsung Jung, Jongbin Kim, Sang-Kyoon Park, and Sukyung Park
-    conference : International Society of Biomechanics (ISB) 2023, Oral Presentation
+  - title: Conferences
+    intro: |
+    papers:
+    - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
+      authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
+      conference : International Society of Biomechanics (ISB) 2025, Oral Presentation
 
-  - title: Reproducing the Characteristics of Muscle Fatigue Change through sEMG Analysis Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
-    authors: Jinsung Jung, Jung Kim, and Sukyung Park
-    conference : International Society of Biomechanics (ISB) 2021, Poster Presentation
+    - title: Changes in Leg Stiffness as a Result of Differences in Leg BMD in Various Age Groups During Running
+      authors: Jinsung Jung, Jongbin Kim, Sang-Kyoon Park, and Sukyung Park
+      conference : International Society of Biomechanics (ISB) 2023, Oral Presentation
+
+    - title: Reproducing the Characteristics of Muscle Fatigue Change through sEMG Analysis Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
+      authors: Jinsung Jung, Jung Kim, and Sukyung Park
+      conference : International Society of Biomechanics (ISB) 2021, Poster Presentation
  
-  - title: Unified-SLIP Model Emulating Stance Leg Ankle Joint Mechanics During Running
-    authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-    conference : Korea Society of Mechanical Engineering (KSME) 2025, Oral Presentation
+    - title: Unified-SLIP Model Emulating Stance Leg Ankle Joint Mechanics During Running
+      authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
+      conference : Korea Society of Mechanical Engineering (KSME) 2025, Oral Presentation
 
-   - title: Whole-Body Energy Expenditure Estimation Based on Stance Leg Sagittal Plane Mechanical Power During Walking
-     authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering (KSME) 2025 Biomechanics Section, Poster Presentation
+     - title: Whole-Body Energy Expenditure Estimation Based on Stance Leg Sagittal Plane Mechanical Power During Walking
+       authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering (KSME) 2025 Biomechanics Section, Poster Presentation
+  
+    - title: Emulation of ankle joint torque during running by considering the characteristics of leg length changes
+      authors: Jinsung Jung and Sukyung Park
+      conference: Korea Society of Mechanical Engineering (KSME) 2024, Oral Presentation
 
-  - title: Emulation of ankle joint torque during running by considering the characteristics of leg length changes
-    authors: Jinsung Jung and Sukyung Park
-    conference: Korea Society of Mechanical Engineering (KSME) 2024, Oral Presentation
+    - title: Emulation of lower limb joint trajectories during running by applying the off-centered elliptical foot to SLIP model
+      authors: Jinsung Jung and Sukyung Park
+      conference: Korea Society of Biomechanics (KSB) 2024, Oral Presentation
 
-  - title: Emulation of lower limb joint trajectories during running by applying the off-centered elliptical foot to SLIP model
-    authors: Jinsung Jung and Sukyung Park
-    conference: Korea Society of Biomechanics (KSB) 2024, Oral Presentation
+    - title: Improving Single IMU-based foot strike pattern classification performance using GRF frequency characteristics during running
+      authors: Jinsung Jung, Seongwoong Hong, Siwoo Jeong, Seungjoo Noh, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering (KSME) 2024 Biomechanics Section, Oral Presentation
 
-  - title: Improving Single IMU-based foot strike pattern classification performance using GRF frequency characteristics during running
-    authors: Jinsung Jung, Seongwoong Hong, Siwoo Jeong, Seungjoo Noh, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering (KSME) 2024 Biomechanics Section, Oral Presentation
-
- - title: Modeling for estimating energy dissipation by soft tissue during running
-   authors: Jinsung Jung and Sukyung Park
-   conference: Korea Society of Biomechanics (KSB) 2023, Oral Presentation
+   - title: Modeling for estimating energy dissipation by soft tissue during running
+     authors: Jinsung Jung and Sukyung Park
+     conference: Korea Society of Biomechanics (KSB) 2023, Oral Presentation
     
-  - title: Modeling of Ground Reaction Force impact during running by reflecting the relative motion of human soft tissue
-    authors: Jinsung Jung and Sukyung Park
-    conference: Korea Society of Mechanical Engineering (KSME) 2023 Biomechanics Section, Oral Presentation
+    - title: Modeling of Ground Reaction Force impact during running by reflecting the relative motion of human soft tissue
+      authors: Jinsung Jung and Sukyung Park
+      conference: Korea Society of Mechanical Engineering (KSME) 2023 Biomechanics Section, Oral Presentation
 
-  - title: Comparison of Foot Strike Pattern Classification during Running through Machine Learning of Single IMU Data
-    authors: Jinsung Jung, Seongwoong Hong, Youngseong Lee, Sang-Kyoon Park and Sukyung Park
-    conference: Korea Society of Biomechanics (KSB) 2022, Oral Presentation
+    - title: Comparison of Foot Strike Pattern Classification during Running through Machine Learning of Single IMU Data
+      authors: Jinsung Jung, Seongwoong Hong, Youngseong Lee, Sang-Kyoon Park and Sukyung Park
+      conference: Korea Society of Biomechanics (KSB) 2022, Oral Presentation
     
-  - title: Correlation analysis between joint mechanical work and upper limb muscle fatigue during swimming stroke training
-    authors: Jinsung Jung and Sukyung Park
-    conference: Korea Society of Biomechanics (KSB) 2022, Poster Presentation
+    - title: Correlation analysis between joint mechanical work and upper limb muscle fatigue during swimming stroke training
+      authors: Jinsung Jung and Sukyung Park
+      conference: Korea Society of Biomechanics (KSB) 2022, Poster Presentation
 
-  - title: Foot strike pattern classification method during running through machine learning of lumbar IMU data
-    authors: Jinsung Jung, Seongwoong Hong and Sukyung Park
-    conference: Korea Society of Mechanical Engineering (KSME) 2022, Poster Presentation
+    - title: Foot strike pattern classification method during running through machine learning of lumbar IMU data
+      authors: Jinsung Jung, Seongwoong Hong and Sukyung Park
+      conference: Korea Society of Mechanical Engineering (KSME) 2022, Poster Presentation
 
     
 
