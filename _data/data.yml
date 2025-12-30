@@ -191,7 +191,7 @@ projects:
 publications:
   title: Publications
   intro: |
-  -category: Journal Publications
+  info: Journal Publications
     papers:
     - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
       link: "doi.org/10.1038/s41598-025-28393-9"
