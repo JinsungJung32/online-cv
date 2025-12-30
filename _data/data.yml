@@ -208,12 +208,10 @@ publications:
     authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
     conference : International Society of Biomechanics (ISB) 2025, Oral Presentation
 
-  papers:
-  -title: Changes in Leg Stiffness as a Result of Differences in Leg BMD in Various Age Groups During Running
+  - title: Changes in Leg Stiffness as a Result of Differences in Leg BMD in Various Age Groups During Running
     authors: Jinsung Jung, Jongbin Kim, Sang-Kyoon Park, and Sukyung Park
     conference : International Society of Biomechanics (ISB) 2023, Oral Presentation
 
-  papers:
   - title: Reproducing the Characteristics of Muscle Fatigue Change through sEMG Analysis Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
     authors: Jinsung Jung, Jung Kim, and Sukyung Park
     conference : International Society of Biomechanics (ISB) 2021, Poster Presentation
@@ -243,8 +241,8 @@ publications:
   - title: Modeling for estimating energy dissipation by soft tissue during running
     authors: Jinsung Jung and Sukyung Park
     conference: Korea Society of Biomechanics (KSB) 2023, Oral Presentation
-
- - title: Modeling of Ground Reaction Force impact during running by reflecting the relative motion of human soft tissue
+    
+  - title: Modeling of Ground Reaction Force impact during running by reflecting the relative motion of human soft tissue
     authors: Jinsung Jung and Sukyung Park
     conference: Korea Society of Mechanical Engineering (KSME) 2023 Biomechanics Section, Oral Presentation
 
