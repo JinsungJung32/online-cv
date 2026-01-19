@@ -5,26 +5,26 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jinsung Jung
-  tagline: Researcher
+  tagline: Researcher | Biomechanics
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: jinsungjung@kaist.ac.kr
-  phone: 010 7360 0661
+  phone: 
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: 
   linkedin: https://www.linkedin.com/in/jinsung-jung-257861373/
   xing: 
   github: 
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky:  # Specify your full Bluesky handle
+  bluesky: 
   twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
@@ -43,31 +43,22 @@ sidebar:
     - idiom: English
       level: Intermediate
 
-
   interests:
     title: Interests
     info:
     - item: Football
       link:
 
-
     - item: Clothing
       link:
-
 
     - item: Music
       link:
 
-
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+
 education:
   title: Education
   info:
@@ -75,145 +66,97 @@ education:
     university: Korea Advanced Institute of Science and Technology
     time: 2021 - 2026
     details: |
-      - Advisor: Prof. Sukyung Park
-      - Ph.D. Dissertation: Energy Expenditure Estimation Based on Gait Mechanics Using Wearable Devices
+        - Bullet point Advisor: Prof. Sukyung Park
+        - Bullet point Ph.D. Dissertation: Energy Expenditure Estimation Based on Gait Mechanics Using Wearable Devices
+
   - degree: M.S. in Mechanical Engineering
     university: Korea Advanced Institute of Science and Technology
     time: 2019 - 2021
     details: |
-      - Advisor: Prof. Jung Kim
-      - Master Thesis: Estimation of Muscle Fatigue by Analyzing sEMG Mean Power Frequency Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
+        - Bullet point Advisor: Prof. Jung Kim
+        - Bullet point Master Thesis: Estimation of Muscle Fatigue by Analyzing sEMG Mean Power Frequency Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
+
   - degree: B.S. in Mechanical Engineering
-    university: Hanyang University
+    university: Hanyang University (Seoul)
     time: 2015 - 2019
     details: |
-        - Cum Laude
+        - Bullet point Graduation with honors: cum laude
 
 experiences:
   title: Research Experiences
   info:
   - role: Ph.D. Dissertation
-    time: 2021 - Present
+    time: 2021 - 2025
     company: KAIST
+    title: Energy Expenditure Estimation Based on Gait Mechanics Using Wearable Devices
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Lead Researcher
-    time: 2024 - Present
+
+  - role: Primary Researcher
+    time: 2024 - 2025
     company: KAIST
     title: Generation of athletic data and on-field monitoring for runners using biomechanics-machine learning
     details: |
-      
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-# certifications:
-#  title: Certifications
-#  list:
-#  - name: CV Builder
-#    start: 2020
-#    end: 2021
-#    organization: Microsoft
-#    credentialid: 111-222
-#    credentialurl: www.google.com
-#    credentialname: Google
-#    details: |
-#      Details about cert. Lorem ipsum dolor sit amet, consectetur
-#      adipiscing elit.
-#      Nullam eget orci purus. Nullam ultrices neque nibh.
-      # Aenean fermentum, felis vulputate suscipit accumsan,
-      # sem enim bibendum augue, sed convallis arcu lacus at dui.
-      # Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      # Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      # Praesent venenatis erat non augue suscipit consectetur.
-
-      # Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      # fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      # justo diam viverra velit, sed rhoncus leo leo eu justo.
-      # Suspendisse placerat risus ante, sed porta nisi blandit at.
-
+      - Bullet point Designed and developed a biomechanically-informed learning framework for estimating metabolic cost and lower limb dynamics using a single sacrum-mounted IMU
+      - Bullet point Led experimental design, data collection, and validation pipelines for runner monitoring
+      - Bullet point Established the methodological foundation that fulfills a major portion of the project's long-term research objectives
 
 projects:
   title: Projects
   intro: >
   assignments:
+
   - title: Teaching Assistant for Dynamics Lecture at KAIST
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
   title: publications
   sections:
   - category_title: JOURNAL PUBLICATIONS
     papers:
-    - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning
+    - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU BAsed on Biomechanically-Informed Machine Learning
       link: "https://doi.org/10.1038/s41598-025-28393-9"
-      authors: Jinsung Jung, Hyunho Jeong, Hyerim Lim, Sameer Upadhye, Joo H. Kim, and Sukyung Park
+      authors: Jinsung Jung, Hyerim Lim, Hyunho Jeong, Sameer Uphadhye, Joo H. Kim, and Sukyung Park
       conference: Scientific Reports, 2025
 
     - title: Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
-      link: "#"
+      link:  
       authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-      conference: Scientific Reports (Under Review)
-      
+      conference: Scientific Reports, Under Review
+
   - category_title: INTERNATIONAL CONFERENCES
     papers:
     - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
-      authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
-      conference: International Society of Biomechanics (ISB) 2025, Oral Presentation
+      authors: Jinsung Jung, Joo H. Kim and Sukyung Park
+      conference: International Society of Biomechanics, 2025, Oral Presentation
     - title: Changes in Leg Stiffness as a Result of Differences in Leg BMD in Various Age Groups During Running
       authors: Jinsung Jung, Jongbin Kim, Sang-Kyoon Park, and Sukyung Park
-      conference: International Society of Biomechanics (ISB) 2023, Oral Presentation
+      conference: International Society of Biomechanics, 2023, Oral Presentation
     - title: Reproducing the Characteristics of Muscle Fatigue Change through sEMG Analysis Based on Joint Mechanical Work During Upper Limb Repetitive Rotation
       authors: Jinsung Jung, Jung Kim, and Sukyung Park
-      conference: International Society of Biomechanics (ISB) 2021, Poster Presentation
+      conference: International Society of Biomechanics, 2021, Poster Presentation
 
   - category_title: DOMESTIC CONFERENCES
     papers:
     - title: Unified-SLIP Model Emulating Stance Leg Ankle Joint Mechanics During Running
       authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-      conference: Korea Society of Mechanical Engineering (KSME) 2025, Oral Presentation
+      conference: Korea Society of Mechanical Engineering, 2025, Oral Presentation
     - title: Whole-Body Energy Expenditure Estimation Based on Stance Leg Sagittal Plane Mechanical Power During Walking
       authors: Jinsung Jung, Joo H. Kim, and Sukyung Park
-      conference: Korea Society of Mechanical Engineering (KSME) 2025 Biomechanics Section, Poster Presentation  
+      conference: Korea Society of Mechanical Engineering Biomechanics Section, 2025, Poster Presentation
     - title: Emulation of ankle joint torque during running by considering the characteristics of leg length changes
       authors: Jinsung Jung and Sukyung Park
-      conference: Korea Society of Mechanical Engineering (KSME) 2024, Oral Presentation
+      conference: Korea Society of Mechanical Engineering, 2024, Oral Presentation
     - title: Emulation of lower limb joint trajectories during running by applying the off-centered elliptical foot to SLIP model
       authors: Jinsung Jung and Sukyung Park
-      conference: Korea Society of Biomechanics (KSB) 2024, Oral Presentation
-    - title: Improving Single IMU-based foot strike pattern classification performance using GRF frequency characteristics during running
-      authors: Jinsung Jung, Seongwoong Hong, Siwoo Jeong, Seungjoo Noh, and Sukyung Park
-      conference: Korea Society of Mechanical Engineering (KSME) 2024 Biomechanics Section, Oral Presentation    
-    - title: Modeling for estimating energy dissipation by soft tissue during running
-      authors: Jinsung Jung and Sukyung Park
-      conference: Korea Society of Biomechanics (KSB) 2023, Oral Presentation  
-    - title: Modeling of Ground Reaction Force impact during running by reflecting the relative motion of human soft tissue
-      authors: Jinsung Jung and Sukyung Park
-      conference: Korea Society of Mechanical Engineering (KSME) 2023 Biomechanics Section, Oral Presentation
+      conference: Korea Society of Biomechanics, 2024, Oral Presentation
+
     - title: Comparison of Foot Strike Pattern Classification during Running through Machine Learning of Single IMU Data
-      authors: Jinsung Jung, Seongwoong Hong, Youngseong Lee, Sang-Kyoon Park and Sukyung Park
-      conference: Korea Society of Biomechanics (KSB) 2022, Oral Presentation    
-    - title: Correlation analysis between joint mechanical work and upper limb muscle fatigue during swimming stroke training
-      authors: Jinsung Jung and Sukyung Park
-      conference: Korea Society of Biomechanics (KSB) 2022, Poster Presentation
+      authors: Jinsung Jung, Seongwoong Hong, Young-Seong Lee, Sang-Kyoon Park, and Sukyung Park
+      conference: Korea Society of Biomechanics, 2022, Oral Presentation
+
     - title: Foot strike pattern classification method during running through machine learning of lumbar IMU data
-      authors: Jinsung Jung, Seongwoong Hong and Sukyung Park
-      conference: Korea Society of Mechanical Engineering (KSME) 2022, Poster Presentation
+      authors: Jinsung Jung, Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering, 2022, Poster Presentation
+
 
 recommendations:
   title: Awards and Honors
@@ -221,15 +164,11 @@ recommendations:
   - name: Outstanding Paper Awards
     start: 2023
     organization: Korea Society of Biomechanics
-
   - name: Outstanding Paper Awards
     start: 2022
-    organization: Korea Society of Biomechanics
-
-  - name: Outstaning Teaching Assistant Awards
+  - name: Outstanding Teaching Assistant Awards
     start: 2022
-    organization: Department of Mechanical Engineering, KAIST
-
+    organization: Department of Mehcanical Engineering, KAIST
   - name: Graduation with honors, cum laude
     start: 2019
     organization: Hanyang University
@@ -251,8 +190,7 @@ skills:
     level: 90%
 
   - name: Python & Machine Learning
-    level: 70%
-
+    level: 75%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
