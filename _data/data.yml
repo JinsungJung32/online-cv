@@ -112,18 +112,26 @@ publications:
   sections:
   - category_title: JOURNAL PUBLICATIONS
     papers:
+
+    - title: Inertial coupling between swing and stance legs shapes ankle torque profile during running
+      link:  https://doi.org/10.64898/2026.09.17.752346
+      authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
+      conference: Journal of Biomechanics, Under Review
+
+    - title: Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
+      link:  https://doi.org/10.64898/2026.07.08.737376
+      authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
+      conference: Journal of the Royal Society Interface, Under Review
+      
     - title: Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU BAsed on Biomechanically-Informed Machine Learning
       link: "https://doi.org/10.1038/s41598-025-28393-9"
       authors: Jinsung Jung, Hyerim Lim, Hyunho Jeong, Sameer Uphadhye, Joo H. Kim, and Sukyung Park
       conference: Scientific Reports, 2025
 
-    - title: Lower-Limb Mechanical Power Accounts for Running Energy Expenditure and Enables Single-IMU Estimation
-      link:  
-      authors: Jinsung Jung, Hyerim Lim, and Sukyung Park
-      conference: Scientific Reports, Under Review
-
   - category_title: INTERNATIONAL CONFERENCES
     papers:
+
+    
     - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
       authors: Jinsung Jung, Joo H. Kim and Sukyung Park
       conference: International Society of Biomechanics, 2025, Oral Presentation
