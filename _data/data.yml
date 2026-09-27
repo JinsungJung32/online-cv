@@ -83,12 +83,13 @@ education:
         - Bullet point Graduation with honors: cum laude
 
 experiences:
-  - role: Biomechanics Researcher
-    time: 2026 - present
-    company: Angel Robotics, Inc.
 
   title: Research Experiences
   info:
+  - role: Biomechanics Researcher
+    time: 2026 - present
+    company: Angel Robotics, Inc.
+    
   - role: Ph.D. Dissertation
     time: 2021 - 2025
     company: KAIST
