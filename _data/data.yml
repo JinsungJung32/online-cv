@@ -9,16 +9,16 @@ sidebar:
 
   # Profile information
   name: Jinsung Jung
-  tagline: Researcher | Biomechanics
+  tagline: Biomechanics Researcher | Angel Robotics, Inc.
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: jinsungjung@kaist.ac.kr
+  email: jinsung.jung@angel-robotics.com
   phone: 
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: 
-  linkedin: https://www.linkedin.com/in/jinsung-jung-257861373/
+  linkedin: https://www.linkedin.com/in/jinsungjung/
   xing: 
   github: 
   telegram: # add your nickname without '@' sign
@@ -83,6 +83,10 @@ education:
         - Bullet point Graduation with honors: cum laude
 
 experiences:
+  - role: Biomechanics Researcher
+    time: 2026-present
+    company: Angel Robotics, Inc.
+
   title: Research Experiences
   info:
   - role: Ph.D. Dissertation
@@ -130,8 +134,15 @@ publications:
 
   - category_title: INTERNATIONAL CONFERENCES
     papers:
-
-    
+    - title: Effects of hip exoskeleton assistance level on metabolic energy expenditure during loaded uphill and downhill walking
+      authors: Jeuhee Lee, Hyundo Kim and Jinsung Jung
+      conference: 2026 IEEE International Conference on Cyborg and Bionic Systems, 2026, Poster Presentation
+    - title: Biomechanics-Informed Energy Expenditure Estimation During Walking and Running Using a Single IMU
+      authors: Jinsung Jung, Hyerim Lim and Sukyung Park
+      conference: 10th World Congress of Biomechanics, 2026, Oral Presentation
+    - title: Swing-Leg Inertia Enhances the Explanation of Ankle Contribution and Propulsive Mechanisms in Running
+      authors: Jinsung Jung, Hyerim Lim and Sukyung Park
+      conference: 10th World Congress of Biomechanics, 2026, Poster Presentation
     - title: Stance Leg Sagittal Power as a Predictor of Whole Body Energy Expenditure in Walking
       authors: Jinsung Jung, Joo H. Kim and Sukyung Park
       conference: International Society of Biomechanics, 2025, Oral Presentation
@@ -174,6 +185,7 @@ recommendations:
     organization: Korea Society of Biomechanics
   - name: Outstanding Paper Awards
     start: 2022
+    organization: Korea Society of Biomechanics
   - name: Outstanding Teaching Assistant Awards
     start: 2022
     organization: Department of Mehcanical Engineering, KAIST
